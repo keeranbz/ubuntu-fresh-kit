@@ -1,3 +1,6 @@
 #!/bin/bash
 
-echo "Installing Hugo..."
+echo "Installing hugo..."
+
+# Dependencies
+sh ./git.sh
