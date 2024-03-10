@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# ant
+echo "Installing ant"
+sudo apt-get -qq install ant
 
 # git
 echo "Installing git"
